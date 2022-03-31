@@ -10,7 +10,7 @@ chmod 777 SpringCorePoC.sh
 ./SpringCorePoC file_with_urls
 ````
 
-![alt text](https://github.com/e1abrador/SpringCorePoC.sh/springCorePoC.png)
+![alt text](https://github.com/e1abrador/SpringCorePoC.sh/blob/master/springCorePoC.png)
 
 Note: Please, don't delete headers file!
 
