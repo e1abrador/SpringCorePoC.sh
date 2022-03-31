@@ -4,8 +4,8 @@ Any misuse of this software will not be the responsibility of the author. Use it
 ## Usage
 
 ````bash
-git clone https://github.com/e1abrador/SpringCorePoC
-cd SpringCorePoC
+https://github.com/e1abrador/SpringCorePoC.sh
+cd SpringCorePoC.sh
 chmod 777 SpringCorePoC.sh
 ./SpringCorePoC file_with_urls
 ````
