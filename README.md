@@ -14,7 +14,7 @@ Please, don't delete headers file!
 
 <h1>Support</h1>
 
-If you like airAttack and it saves you time, money or just brings you happy feelings, please show your support through sponsorship! Click the little sponsor button in the header and sponsor for as little as $1 per month :)
+If you like this script and it saves you time, money or just brings you happy feelings, please show your support through sponsorship! Click the little sponsor button in the header and sponsor for as little as $1 per month :)
 
 Or buy me a coffee to keep me powered :)
 
