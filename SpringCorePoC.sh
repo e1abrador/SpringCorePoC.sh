@@ -26,5 +26,5 @@ else
 		if [ $(echo "$command2" | grep -oP "200") == $(echo -e "200") ]; then
 			echo -e "${redColour}$url/tomcatwar.jsp?pwd=j&cmd=whoami${endColour} ${grayColour}|${endColour} $command2 ${grayColour}-${endColour} ${redColour}Potentially vulnerable${endColour}"
 		fi 2>/dev/null
-	done
+	done 2>/dev/null
 fi

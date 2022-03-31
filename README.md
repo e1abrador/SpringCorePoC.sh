@@ -12,6 +12,16 @@ chmod 777 SpringCorePoC.sh
 
 ![alt text](https://github.com/e1abrador/SpringCorePoC.sh/blob/master/springCorePoC.png)
 
+
+To use it at nuclei, run:
+
+````bash
+cat file_with_urls | nuclei -t SpringCorePoC.yaml
+````
+
+![alt text](https://github.com/e1abrador/SpringCorePoC.sh/blob/master/SpringCorePoC_nuclei.png)
+
+
 Note: Please, don't delete headers file!
 
 <h1>Support</h1>
