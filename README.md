@@ -12,7 +12,7 @@ chmod 777 SpringCorePoC.sh
 
 ![alt text](https://github.com/e1abrador/SpringCorePoC.sh/blob/master/springCorePoC.png)
 
-Note: bash script does not filter for http response body, in case that the web app shows 404 error page with status code 200, will show as vulnerable. Nuclei script does filter that and should't show false positives.
+Note: bash script does not filter for http response body, in case that the web app shows 404 error page with status code 200, will show as vulnerable. Nuclei script does filter that and should't show false positives.                    
 Note: Please, don't delete headers file, if you delete it, bash script won't work!
 
 To use it at nuclei, run:
